@@ -1,0 +1,15 @@
+*{
+	font-family:MicroSoft Yahei;
+}
+
+#label{
+	font-size: 25px;
+}
+
+#label_12,#label_13,#label_14{
+	font-weight:bold;
+}
+
+#status1,#status2,#status3,#status4,#status5{
+	margin-right:75px;
+}
